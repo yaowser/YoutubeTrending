@@ -3,6 +3,8 @@ https://www.slideshare.net/YaoYao44/estimating-the-initial-mean-number-of-views-
 
 https://www.slideshare.net/YaoYao44/estimating-the-initial-mean-number-of-views-for-videos-to-be-on-youtubes-trending-list-95090200
 
+https://www.youtube.com/watch?v=XNrtWbS6-_8
+
 Proportional allocation after design effect is the best method to estimate the mean views -- lowest average absolute difference from true mean and 80% that the true mean is within CI
 
 - 'Music' and 'Comedy' may be harder categories to get on trending
